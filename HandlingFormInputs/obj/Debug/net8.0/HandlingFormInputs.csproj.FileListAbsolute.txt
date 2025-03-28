@@ -159,3 +159,5 @@ C:\SoftUNI\Playground\Playground\HandlingFormInputs\obj\Debug\net8.0\refint\Hand
 C:\SoftUNI\Playground\Playground\HandlingFormInputs\obj\Debug\net8.0\HandlingFormInputs.pdb
 C:\SoftUNI\Playground\Playground\HandlingFormInputs\obj\Debug\net8.0\HandlingFormInputs.genruntimeconfig.cache
 C:\SoftUNI\Playground\Playground\HandlingFormInputs\obj\Debug\net8.0\ref\HandlingFormInputs.dll
+C:\SoftUNI\Playground\Playground\HandlingFormInputs\obj\Debug\net8.0\HandlingFormInputs.sourcelink.json
+C:\SoftUNI\Playground\Playground\HandlingFormInputs\bin\Debug\net8.0\WebDriver.Support.dll

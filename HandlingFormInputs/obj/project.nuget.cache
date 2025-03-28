@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/dOymKJmqTE=",
+  "dgSpecHash": "fiAqhcK7dN8=",
   "success": true,
   "projectFilePath": "C:\\SoftUNI\\Playground\\Playground\\HandlingFormInputs\\HandlingFormInputs.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\denni\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\nunit.analyzers\\4.6.0\\nunit.analyzers.4.6.0.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\nunit3testadapter\\5.0.0\\nunit3testadapter.5.0.0.nupkg.sha512",
+    "C:\\Users\\denni\\.nuget\\packages\\selenium.support\\4.30.0\\selenium.support.4.30.0.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\selenium.webdriver\\4.30.0\\selenium.webdriver.4.30.0.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\selenium.webdriver.chromedriver\\134.0.6998.16500\\selenium.webdriver.chromedriver.134.0.6998.16500.nupkg.sha512",
     "C:\\Users\\denni\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
