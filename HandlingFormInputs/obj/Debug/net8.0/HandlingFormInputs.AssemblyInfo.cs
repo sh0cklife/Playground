@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HandlingFormInputs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5079f2fc5998f7ac703f7f16889c0e36da9e3967")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893e9b4fa2cf79b8bb181504b26771525fd40ea6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HandlingFormInputs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HandlingFormInputs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

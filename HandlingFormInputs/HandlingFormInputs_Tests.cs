@@ -100,6 +100,10 @@ namespace HandlingFormInputs
             var logOffMessage = driver.FindElement(By.XPath("//div[@id=\"bodyContent\"]//h1"));
             var logResult = logOffMessage.Text;
             Assert.That(logResult, Is.EqualTo("Log Off"));
+
+            driver.FindElement(By.LinkText("Continue")).Click();
+
+            Console.WriteLine("User Created Successfully");
         }
     }
 }
