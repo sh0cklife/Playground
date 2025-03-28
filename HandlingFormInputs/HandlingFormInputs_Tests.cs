@@ -87,6 +87,19 @@ namespace HandlingFormInputs
 
             var continueRegistrationButton = driver.FindElements(By.XPath("//span[@class=\"ui-button-text\"]"))[3];
             continueRegistrationButton.Click();
+
+            //ASSERTION
+            var successMessage = driver.FindElement(By.XPath("//div[@id=\"bodyContent\"]//h1"));
+            var result = successMessage.Text;
+            Assert.That(result, Is.EqualTo("Your Account Has Been Created!"));
+            
+
+            var logOff = driver.FindElements(By.XPath("//span[@class=\"ui-button-text\"]"))[3];
+            logOff.Click();
+
+            var logOffMessage = driver.FindElement(By.XPath("//div[@id=\"bodyContent\"]//h1"));
+            var logResult = logOffMessage.Text;
+            Assert.That(logResult, Is.EqualTo("Log Off"));
         }
     }
 }
