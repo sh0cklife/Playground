@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BPB Online", "BPB Online.csproj", "{A5F388A3-4D68-4F2E-9943-D2EA4C187474}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BPB Online", "BPB Online.csproj", "{A5F388A3-4D68-4F2E-9943-D2EA4C187474}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingFormInputs", "..\HandlingFormInputs\HandlingFormInputs.csproj", "{2F9A65DF-0803-44B0-B825-D49B95ACFB03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HandlingFormInputs", "..\HandlingFormInputs\HandlingFormInputs.csproj", "{2F9A65DF-0803-44B0-B825-D49B95ACFB03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithWebTable", "..\WorkingWithWebTable\WorkingWithWebTable.csproj", "{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2F9A65DF-0803-44B0-B825-D49B95ACFB03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9A65DF-0803-44B0-B825-D49B95ACFB03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9A65DF-0803-44B0-B825-D49B95ACFB03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\SoftUNI\\Playground\\Playground\\BPB Online\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}|..\\WorkingWithWebTable\\WorkingWithWebTable.csproj|c:\\softuni\\playground\\playground\\workingwithwebtable\\webtable_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2F9A65DF-0803-44B0-B825-D49B95ACFB03}|..\\HandlingFormInputs\\HandlingFormInputs.csproj|c:\\softuni\\playground\\playground\\handlingforminputs\\handlingforminputs_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,12 +33,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WebTable_Tests.cs",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\WorkingWithWebTable\\WebTable_Tests.cs",
+              "RelativeDocumentMoniker": "..\\WorkingWithWebTable\\WebTable_Tests.cs",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\WorkingWithWebTable\\WebTable_Tests.cs",
+              "RelativeToolTip": "..\\WorkingWithWebTable\\WebTable_Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T13:12:46.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HandlingFormInputs_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "RelativeDocumentMoniker": "..\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "RelativeToolTip": "..\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T11:04:23.365Z",
               "EditorCaption": ""
