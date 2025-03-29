@@ -49,12 +49,12 @@ namespace WorkingWithWebTables
                     string data = tData.Text;
                     string[] productInfo = data.Split("\n");
 
-                    File.AppendAllText(path, productInfo[0].Trim() + ", " + productInfo[1].Trim() + "\n");
+                    File.AppendAllText(path, productInfo[0].Trim() + "|" + productInfo[1].Trim() + "\n");
                 }
             }
 
-            Assert.IsTrue(File.Exists(path));
-            Assert.IsTrue(new FileInfo(path).Length > 0);
+            Assert.That(File.Exists(path), Is.True);
+            Assert.That(new FileInfo(path).Exists, Is.True);
         }
     }
 }
