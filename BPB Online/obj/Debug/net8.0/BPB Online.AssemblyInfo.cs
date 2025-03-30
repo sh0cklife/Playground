@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BPB Online")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8e44ab35a53243cb1546e0c1a2282523afb7ba9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0893bce24df063c15197ffb8831d7af8baeeffef")]
 [assembly: System.Reflection.AssemblyProductAttribute("BPB Online")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BPB Online")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
