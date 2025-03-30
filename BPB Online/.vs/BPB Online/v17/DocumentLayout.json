@@ -3,10 +3,13 @@
   "WorkspaceRootPath": "C:\\SoftUNI\\Playground\\Playground\\BPB Online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}|..\\WorkingWithWebTable\\WorkingWithWebTable.csproj|c:\\softuni\\playground\\playground\\workingwithwebtable\\webtable_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940A08FD-269A-474D-AA38-6761872B9FE0}|..\\DropdownExtraction\\DropdownExtraction.csproj|c:\\softuni\\playground\\playground\\dropdownextraction\\dropdown_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{940A08FD-269A-474D-AA38-6761872B9FE0}|..\\DropdownExtraction\\DropdownExtraction.csproj|c:\\softuni\\playground\\playground\\dropdownextraction\\dropdown_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{940A08FD-269A-474D-AA38-6761872B9FE0}|..\\DropdownExtraction\\DropdownExtraction.csproj|c:\\softuni\\playground\\playground\\dropdownextraction\\dropdownextraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82FD61C4-5FD7-4CDC-88D2-39DE83E829E5}|..\\WorkingWithWebTable\\WorkingWithWebTable.csproj|c:\\softuni\\playground\\playground\\workingwithwebtable\\webtable_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F9A65DF-0803-44B0-B825-D49B95ACFB03}|..\\HandlingFormInputs\\HandlingFormInputs.csproj|c:\\softuni\\playground\\playground\\handlingforminputs\\handlingforminputs_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,6 +25,19 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DropdownExtraction",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\DropdownExtraction\\DropdownExtraction.csproj",
+              "RelativeDocumentMoniker": "..\\DropdownExtraction\\DropdownExtraction.csproj",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\DropdownExtraction\\DropdownExtraction.csproj",
+              "RelativeToolTip": "..\\DropdownExtraction\\DropdownExtraction.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T14:32:39.555Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
@@ -35,39 +51,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dropdown_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\DropdownExtraction\\Dropdown_Tests.cs",
               "RelativeDocumentMoniker": "..\\DropdownExtraction\\Dropdown_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\DropdownExtraction\\Dropdown_Tests.cs",
               "RelativeToolTip": "..\\DropdownExtraction\\Dropdown_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T14:27:46.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WebTable_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\WorkingWithWebTable\\WebTable_Tests.cs",
               "RelativeDocumentMoniker": "..\\WorkingWithWebTable\\WebTable_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\WorkingWithWebTable\\WebTable_Tests.cs",
               "RelativeToolTip": "..\\WorkingWithWebTable\\WebTable_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T13:12:46.318Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HandlingFormInputs_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "RelativeDocumentMoniker": "..\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
               "RelativeToolTip": "..\\HandlingFormInputs\\HandlingFormInputs_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T11:04:23.365Z",
               "EditorCaption": ""

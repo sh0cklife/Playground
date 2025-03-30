@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DropdownExtraction")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0893bce24df063c15197ffb8831d7af8baeeffef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d560e8dc4df87e83010870246bf6967102000f35")]
 [assembly: System.Reflection.AssemblyProductAttribute("DropdownExtraction")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DropdownExtraction")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
