@@ -116,6 +116,9 @@ namespace Wikipedia
         [Test]
         public void VerifyBrokenLinks()
         {
+            IWebElement englishLanguage = driver.FindElement(By.XPath("//nav//div[@dir=\"ltr\" and @lang=\"en\"]"));
+            englishLanguage.Click();
+
 
         }
     }
