@@ -92,6 +92,31 @@ namespace Wikipedia
 
         }
 
-        //add more tests here
+        [Test]
+        public void VerifyLoginPage()
+        {
+            IWebElement englishLanguage = driver.FindElement(By.XPath("//nav//div[@dir=\"ltr\" and @lang=\"en\"]"));
+            englishLanguage.Click();
+
+            IWebElement loginButton = driver.FindElement(By.LinkText("Log in"));
+            loginButton.Click();
+
+            IWebElement loginPage = driver.FindElement(By.Id("firstHeading"));
+            Assert.That(loginPage.Text, Is.EqualTo("Log in"));
+
+            IWebElement usernameField = driver.FindElement(By.Id("wpName1"));
+            IWebElement passwordField = driver.FindElement(By.Id("wpPassword1"));
+
+            Assert.That(usernameField.Displayed, Is.True);
+            Assert.That(passwordField.Displayed, Is.True);
+
+            Console.WriteLine("The user is taken to the Wikipedia login page.");
+        }
+
+        [Test]
+        public void VerifyBrokenLinks()
+        {
+
+        }
     }
 }
