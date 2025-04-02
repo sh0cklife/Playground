@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wikipedia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f3575ccfb52b64e474d6a707fea5109ef090fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54fca762fd18c7fd14af8a3d0eee50a764b032b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wikipedia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wikipedia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
