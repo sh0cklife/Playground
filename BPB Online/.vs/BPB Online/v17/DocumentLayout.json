@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\SoftUNI\\Playground\\Playground\\BPB Online\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DDAFF47-1806-4929-BA80-27268CCC1EF1}|..\\Herokuapp\\Herokuapp.csproj|c:\\softuni\\playground\\playground\\herokuapp\\homepageelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DDAFF47-1806-4929-BA80-27268CCC1EF1}|..\\Herokuapp\\Herokuapp.csproj|c:\\softuni\\playground\\playground\\herokuapp\\herokuapp_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -33,25 +36,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomePageElements.cs",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\HomePageElements.cs",
+              "RelativeDocumentMoniker": "..\\Herokuapp\\HomePageElements.cs",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\HomePageElements.cs",
+              "RelativeToolTip": "..\\Herokuapp\\HomePageElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:24:41.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Herokuapp_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\Herokuapp_Tests.cs",
               "RelativeDocumentMoniker": "..\\Herokuapp\\Herokuapp_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\Herokuapp_Tests.cs",
               "RelativeToolTip": "..\\Herokuapp\\Herokuapp_Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T20:20:09.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Wikipedia_Tests.cs",
               "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Wikipedia\\Wikipedia_Tests.cs",
               "RelativeDocumentMoniker": "..\\Wikipedia\\Wikipedia_Tests.cs",
               "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Wikipedia\\Wikipedia_Tests.cs",
               "RelativeToolTip": "..\\Wikipedia\\Wikipedia_Tests.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAmwGIAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-31T15:50:48.924Z",
               "EditorCaption": ""
