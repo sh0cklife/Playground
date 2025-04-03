@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Herokuapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+325290f8c8e74d8aea667531230f29ecb81bd742")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e6dec4d63b5000644813f5e480fd6c3fe52b5f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Herokuapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Herokuapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
