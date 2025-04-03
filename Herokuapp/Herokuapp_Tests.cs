@@ -187,5 +187,96 @@ namespace Herokuapp
         {
             Assert.Pass();
         }
+
+        public void Inputs()
+        {
+            Assert.Pass();
+        }
+
+        public void JqueryUiMenus()
+        {
+            Assert.Pass();
+        }
+
+        public void JavascriptAlerts()
+        {
+            Assert.Pass();
+        }
+
+        public void JavascriptOnloadEventErrors()
+        {
+            Assert.Pass();
+        }
+
+        public void KeyPresses()
+        {
+            Assert.Pass();
+        }
+
+        public void LargeAndDeepDOM()
+        {
+            Assert.Pass();
+        }
+
+        public void MultipleWindows()
+        {
+            Assert.Pass();
+        }
+
+        public void NestedFrames()
+        {
+            Assert.Pass();
+        }
+
+        public void NotificationMessages()
+        {
+            Assert.Pass();
+        }
+
+        public void RedirectLink()
+        {
+            Assert.Pass();
+        }
+
+        public void SecureFileDownload()
+        {
+            Assert.Pass();
+        }
+
+        public void ShadowDOM()
+        {
+            Assert.Pass();
+        }
+
+        public void ShiftingContent()
+        {
+            Assert.Pass();
+        }
+
+        public void SlowResources()
+        {
+            Assert.Pass();
+        }
+
+        public void SortableDataTables()
+        {
+            Assert.Pass();
+        }
+
+        public void StatusCodes()
+        {
+            Assert.Pass();
+        }
+
+        public void Typos()
+        {
+            Assert.Pass();
+        }
+
+        public void WysiwygEditor()
+        {
+            Assert.Pass();
+        }
+
     }
 }
